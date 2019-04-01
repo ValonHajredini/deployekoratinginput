@@ -1,0 +1,15 @@
+{
+  "name": "ekonpmpackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "es2015-polyfills.1e04665e16f944715fd2.js",
+  "scripts": {
+    "deploy": "gh-page"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://ValonHajredini.github.io/eko-rating-input",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
