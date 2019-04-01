@@ -4,7 +4,7 @@
   "description": "",
   "main": "es2015-polyfills.1e04665e16f944715fd2.js",
   "scripts": {
-    "deploy": "gh-page"
+    "deploy": "gh-pages"
   },
   "author": "",
   "license": "ISC",
